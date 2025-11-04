@@ -1,0 +1,6 @@
+﻿name,ID,start,stamina,money,bank_checking_account,days,field,chicken,sheep,cow,groth_wheat,groth_egg,groth_wool,groth_milk,amount_wheat,amount_egg,amount_wool,amount_milk,sesion_yesterday,end
+now,player_now,0,5,5000.0,15000.0,1,7,2,4,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,spring,0
+new,player_new,0,5,100.0,0.0,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,spring,0
+test,player_test,0,5,5000.0,15000.0,1,7,2,4,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,spring,0
+test_2,player_test_2,0,5,5000.0,15000.0,1,7,2,4,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,spring,0
+test_3,player_test_3,0,5,5000.0,15000.0,1,7,2,4,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,spring,0

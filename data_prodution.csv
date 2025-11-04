@@ -1,0 +1,5 @@
+name,unit,price,products,products_price,products_unit,spring_day_yield,summer_day_yield,fall_day_yield,winter_day_yield
+field,acre,1000.0,wheat,10.75,bushel,0.046, 0.027, 0.0038, 0.0
+chicken,animal,1.0,egg,0.042,number,0.6,0.85,0.35,0.05
+sheep,animal,17.0,wool,3.29,lb,0.022,0.016,0.009,0.002
+cow,animal,113.0,milk,0.125,pint,6.0, 5.0, 3.0, 0.0
